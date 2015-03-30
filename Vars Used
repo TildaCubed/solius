@@ -1,0 +1,29 @@
+A: X-coord in the overworld
+B: Y-coord in the overworld
+C: "Cursor", var holding position that the menu cursor should be in
+D: Value of C from last loop/before a keypress
+E: Exp
+f
+g
+H: Current HP
+i
+J: "Jump" out of walking loop flag
+K: Getkey var (1 if save+quit, -1 if quit without saving)
+L: Level
+m
+n
+o
+p
+q
+R: Resilience level (defense)
+s
+t
+U: "Update" F1 Menu options flag
+V: Y-coord in the current overworld plot
+W: X-coord in the current overworld plot
+x
+y
+Z:
+Theta: For( loop variable
+Str1: Used for displaying the first option in F1 menu
+(list)SOLSV: Save file; {H,R,L,E,A,B
