@@ -11,7 +11,7 @@ J: "Jump" out of walking loop flag
 K: Getkey var (1 if save+quit, -1 if quit without saving)
 L: Level
 m
-n
+N: New game flag. For use if intro is desired. If not, remove it from code.
 o
 p
 q
@@ -23,7 +23,7 @@ V: Y-coord in the current overworld plot
 W: X-coord in the current overworld plot
 x
 y
-Z:
+Z: (garbage var) Quit from main menu flag
 Theta: For( loop variable
 Str1: Used for displaying the first option in F1 menu
 (list)SOLSV: Save file; {H,R,L,E,A,B
