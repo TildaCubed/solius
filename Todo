@@ -1,6 +1,6 @@
 >>>Todo:
 
-*[maybe] Add randomly generating world (how is it saved?)
+*[maybe] Add randomly generating world (presets, and detected by a value?)
 *Finalize world size (9x9 is way too big, or maybe world sizes can be customized per new game?)
 *Add F5 "interact" menu/functions
 *Create Map for F1 Menu
