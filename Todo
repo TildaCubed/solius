@@ -6,7 +6,6 @@
 *Create Map for F1 Menu
 *Add turn-based battles and battle animations (maybe include differing moves?)
 *Add code that will display objects in the overworld
-*Add confirmation prompt to exiting without saving
 *Add main menu (New Game, Load Game, Help, Quit)
 *[maybe] Add ability to name character
 *Finalize character sprite
@@ -16,3 +15,6 @@
 *Add random encounters
 *Speed up menu and overworld transitions/redraws
 *[maybe] Add end goal
+
+>>Done:
+*Add confirmation prompt to exiting without saving
