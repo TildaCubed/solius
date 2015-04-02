@@ -6,7 +6,7 @@ E: Exp
 f
 g
 H: Current HP
-i
+I: Number of steps taken since last encounter (can't get an encounter before this number is 10)
 J: "Jump" out of walking loop flag
 K: Getkey var (1 if save+quit, -1 if quit without saving)
 L: Level
