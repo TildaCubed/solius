@@ -1,16 +1,17 @@
 >>>Todo:
 
-*[maybe] Add randomly generating world (presets, and detected by a value?)
 *Finalize world size (9x9 is way too big, or maybe world sizes can be customized per new game?)
 *Add F5 "interact" menu/functions
 *Create Map for F1 Menu
 *Add code that will display objects in the overworld
-*[maybe] Add ability to name character
 *Add town(s), hidden chests, and more overworld stuff
-*[maybe] Add currency
-*Have the F1 menu not update the list of objects under an item until you stop scrolling
+*[maybe] Add new game intro
+*[maybe] Have the F1 menu not update the list of objects under an item until you stop scrolling
 *[maybe] Add end goal
 *[maybe] Add physical obstacles
+*[maybe] Add randomly generating world (presets, and detected by a value?)
+*[maybe] Add currency
+*[maybe] Add ability to name character
 
 >>Done:
 *Add confirmation prompt to exiting without saving
