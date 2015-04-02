@@ -4,14 +4,11 @@
 *Finalize world size (9x9 is way too big, or maybe world sizes can be customized per new game?)
 *Add F5 "interact" menu/functions
 *Create Map for F1 Menu
-*Add turn-based battles and battle animations (maybe include differing moves?)
 *Add code that will display objects in the overworld
 *[maybe] Add ability to name character
 *Add town(s), hidden chests, and more overworld stuff
 *[maybe] Add currency
 *Have the F1 menu not update the list of objects under an item until you stop scrolling
-*Add random encounters (Zelda II style, or Final Fantasy style?)
-*Speed up 
 *[maybe] Add end goal
 *[maybe] Add physical obstacles
 
@@ -20,3 +17,5 @@
 *Finalize character sprite
 *Speed up menu and overworld transitions/redraws
 *Add main menu (New Game, Load Game, Help, Quit)
+*Add turn-based battles and battle animations (maybe include differing moves?)
+*Add random encounters (Zelda II style, or *Final Fantasy style?)
