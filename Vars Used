@@ -23,7 +23,7 @@ V: Y-coord in the current overworld plot
 W: X-coord in the current overworld plot
 x
 y
-Z: (garbage var) Quit from main menu flag
+Z: Quit from main menu flag, enemy type
 Theta: For( loop variable
 Str1: Used for displaying the first option in F1 menu
 (list)SOLSV: Save file; {H,R,L,E,A,B
