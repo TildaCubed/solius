@@ -16,8 +16,8 @@ o
 p
 q
 R: Resilience level (defense)
-s
-t
+S: Max enemy HP
+T: Current enemy HP
 U: "Update" F1 Menu options flag
 V: Y-coord in the current overworld plot
 W: X-coord in the current overworld plot
