@@ -10,7 +10,7 @@ I: Number of steps taken since last encounter (can't get an encounter before thi
 J: "Jump" out of walking loop flag
 K: Getkey var (1 if save+quit, -1 if quit without saving)
 L: Level
-m
+M: World map size
 N: New game flag. For use if intro is desired. If not, remove it from code.
 o
 p
@@ -26,4 +26,4 @@ y
 Z: Quit from main menu flag, enemy type
 Theta: For( loop variable
 Str1: Used for displaying the first option in F1 menu
-(list)SOLSV: Save file; {H,R,L,E,A,B
+(list)SOLSV: Save file; {H,R,L,E,A,B,V,W,M
