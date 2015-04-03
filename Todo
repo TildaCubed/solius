@@ -1,6 +1,6 @@
 >>>Todo:
 
-*Finalize world size (9x9 is way too big, or maybe world sizes can be customized per new game?)
+*Add ability to customize world sizes per new game
 *Add F5 "interact" menu/functions
 *Create Map for F1 Menu
 *Add code that will display objects in the overworld
