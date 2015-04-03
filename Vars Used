@@ -21,7 +21,7 @@ T: Current enemy HP
 U: "Update" F1 Menu options flag
 V: Y-coord in the current overworld plot
 W: X-coord in the current overworld plot
-x
+X: Escape success flag
 Y: Double For( loop variable (used in map drawing)
 Z: Quit from main menu flag, enemy type
 Theta: For( loop variable
