@@ -1,6 +1,5 @@
 >>>Todo:
 
-*Add ability to customize world sizes per new game
 *Add more F5 "interact" menu/functions
 *Create Map for F1 Menu
 *Add code that will display objects in the overworld
@@ -22,3 +21,4 @@
 *Add random encounters (Zelda II style, or *Final Fantasy style?)
 *Add town (one at 1,1)
 *Add F5 function (heals you at town if you've fought 3+ battles)
+*Add ability to customize world sizes per new game
