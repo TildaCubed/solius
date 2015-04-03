@@ -26,4 +26,4 @@ Y: Double For( loop variable (used in map drawing)
 Z: Quit from main menu flag, enemy type
 Theta: For( loop variable
 Str1: Used for displaying the first option in F1 menu
-(list)SOLSV: Save file; {H,R,L,E,A,B,V,W,M
+(list)SOLSV: Save file; {H,R,L,E,A,B,V,W,M,Q
