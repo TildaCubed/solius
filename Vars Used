@@ -14,7 +14,7 @@ M: World map size
 N: New game flag. For use if intro is desired. If not, remove it from code.
 o
 p
-q
+Q: Can use town inn flag
 R: Resilience level (defense)
 S: Max enemy HP
 T: Current enemy HP
