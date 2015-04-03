@@ -1,10 +1,10 @@
 >>>Todo:
 
 *Add ability to customize world sizes per new game
-*Add F5 "interact" menu/functions
+*Add more F5 "interact" menu/functions
 *Create Map for F1 Menu
 *Add code that will display objects in the overworld
-*Add town(s), hidden chests, and more overworld stuff
+*Add hidden chests, and more overworld stuff
 *[maybe] Add new game intro
 *[maybe] Have the F1 menu not update the list of objects under an item until you stop scrolling
 *[maybe] Add end goal
@@ -20,3 +20,5 @@
 *Add main menu (New Game, Load Game, Help, Quit)
 *Add turn-based battles and battle animations (maybe include differing moves?)
 *Add random encounters (Zelda II style, or *Final Fantasy style?)
+*Add town (one at 1,1)
+*Add F5 function (heals you at town if you've fought 3+ battles)
