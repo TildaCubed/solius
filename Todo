@@ -1,8 +1,6 @@
 >>>Todo:
 
-*[maybe] Add new game intro
 *[maybe] Have the F1 menu not update the list of objects under an item until you stop scrolling
-*[maybe] Add end goal
 *[maybe] Add physical obstacles
 *[maybe] Add randomly generating world (presets, and detected by a value?)
 *[maybe] Add currency
@@ -22,3 +20,5 @@
 *Add code that will display objects in the overworld
 *Add hidden chests, and more overworld stuff
 *Add more F5 "interact" functions
+*Add end goal
+*Add new game intro
