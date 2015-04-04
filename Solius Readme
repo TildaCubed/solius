@@ -12,8 +12,8 @@ new game.
 To exit, press 3 on the main menu.
 
 >-Controls-<
-	To walk around, press the arrow keys. To access the menu, press F1. to interact with objects, stand over them and press F5.
-A treasure chest "B" will open on it's own, without having to use F5. Interacting with a town will heal you,
+	To walk around, press the arrow keys. To access the menu, press F1. to interact with objects, stand over them and press
+F5. A treasure chest "B" will open on it's own, without having to use F5. Interacting with a town will heal you,
 if you are a big "O". If you have been healed, you will momentarily turn into a "^". To quit without saving, press Enter
 twice. Please note that your save file will return to the state it was in when you last saved.
 	In battles, press 2nd to attack the enemy. Press Alpha to cast a healing spell. It will take away 5 exp in return for
