@@ -11,7 +11,7 @@ J: "Jump" out of walking loop flag
 K: Getkey var (1 if save+quit, -1 if quit without saving)
 L: Level
 M: World map size
-N: New game flag. For use if intro is desired. If not, remove it from code.
+N: Count of times completed game. fPart(N) will be .1 if game just completed
 o
 p
 Q: Can use town inn flag
