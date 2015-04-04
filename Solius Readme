@@ -1,0 +1,27 @@
+>>>_-Solius-_<<<
+	Solius is a TI-84+CSE roguelike RPG. Explore an expansive world, fight enemies, find treasure, and more. Requires
+Doors CSE 8.0 or above to work. Download Doors CSE at this link: dcs.cemetech.net
+
+>>-Starting and Playing-<<
+	To start a new game, press 1 on the main menu. Select the size of the world you would like to play in. The size
+represents squares of 24*8 tiles, walkable or otherwise. If you don't know what this means, select 5*5 for now. 
+	To load a previous save file, press 2 on the main menu. If you don't have a save file, the game will follow the
+procedures of step 1. Please note that if you start a new game and quit without saving, your save file will be that of a brand
+new game.
+
+To exit, press 3 on the main menu.
+
+>-Controls-<
+	To walk around, press the arrow keys. To access the menu, press F1. to interact with objects, stand over them and press F5.
+A treasure chest "B" will open on it's own, without having to use F5. Interacting with a town will heal you,
+if you are a big "O". If you have been healed, you will momentarily turn into a "^". To quit without saving, press Enter
+twice. Please note that your save file will return to the state it was in when you last saved.
+	In battles, press 2nd to attack the enemy. Press Alpha to cast a healing spell. It will take away 5 exp in return for
+healing you. After you do either of these two things, the enemy will attack you. To flee, press MODE. If you fail to flee,
+the enemy will also attack.
+	To navigate the F1 menu, press left and right. This will scroll between STATS, MAP, and SAVE. To save, press enter when
+the SAVE option is highlighted with the "*".
+
+>>-Credits-<<
+Please credit me for anything used in the program, or:
+*Whoever made the page http://tibasicdev.wikidot.com/number-to-string2 for the number -> string algorithm
