@@ -3,8 +3,8 @@ B: Y-coord in the overworld
 C: "Cursor", var holding position that the menu cursor should be in
 D: Value of C from last loop/before a keypress
 E: Exp
-f
-g
+F: A+.1B of hidden treasure
+G: V+1.W of hidden treasure
 H: Current HP
 I: Number of steps taken since last encounter (can't get an encounter before this number is 10)
 J: "Jump" out of walking loop flag
@@ -27,3 +27,4 @@ Z: Quit from main menu flag, enemy type
 Theta: For( loop variable
 Str1: Used for displaying the first option in F1 menu
 (list)SOLSV: Save file
+L1: Temp var for treasure coords
