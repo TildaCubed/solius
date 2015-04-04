@@ -3,8 +3,9 @@
 Doors CSE 8.0 or above to work. Download Doors CSE at this link: dcs.cemetech.net
 
 >>-Starting and Playing-<<
-	To start a new game, press 1 on the main menu. Select the size of the world you would like to play in. The size
-represents squares of 24*8 tiles, walkable or otherwise. If you don't know what this means, select 5*5 for now. 
+	To start a new game, press 1 on the main menu. Select the size of the world you would like to play in, using the left
+and right arrow keys. The size represents squares of 24*8 tiles, walkable or otherwise. If you don't know what this means,
+select 4*4 for now by pressing Enter.
 	To load a previous save file, press 2 on the main menu. If you don't have a save file, the game will follow the
 procedures of step 1. Please note that if you start a new game and quit without saving, your save file will be that of a brand
 new game.
@@ -25,3 +26,4 @@ the SAVE option is highlighted with the "*".
 >>-Credits-<<
 Please credit me for anything used in the program, or:
 *Whoever made the page http://tibasicdev.wikidot.com/number-to-string2 for the number -> string algorithm
+
