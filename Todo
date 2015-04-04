@@ -1,8 +1,5 @@
 >>>Todo:
 
-*Add more F5 "interact" menu/functions
-*Add code that will display objects in the overworld
-*Add hidden chests, and more overworld stuff
 *[maybe] Add new game intro
 *[maybe] Have the F1 menu not update the list of objects under an item until you stop scrolling
 *[maybe] Add end goal
@@ -22,3 +19,6 @@
 *Add F5 function (heals you at town if you've fought 3+ battles)
 *Add ability to customize world sizes per new game
 *Create Map for F1 Menu
+*Add code that will display objects in the overworld
+*Add hidden chests, and more overworld stuff
+*Add more F5 "interact" functions
